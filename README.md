@@ -1,5 +1,5 @@
 # My-CodeChef-Solutions-Python
-This repository has a collection of my codechef submissions written in Python
+This repository has a collection of my CodeChef submissions written in Python
 
 I hope that the solutions will be useful for you
 
